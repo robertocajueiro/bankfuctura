@@ -38,3 +38,8 @@ inicial.
 4. A Conta-Poupança não aceitará saques e depósitos diretamente. Para que seja possível
 depositar ou sacar da Conta-Poupança, implemente uma lógica utilizando os métodos para
 resgate e aplicação, respectivamente.
+
+
+## Resultados
+
+![image](https://github.com/robertocajueiro/bankfuctura/assets/28118980/2cd24e42-bbe2-4bd7-b165-d145adcaf990)
